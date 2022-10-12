@@ -49,7 +49,7 @@ header div img {
 }
 
 main {
-    max-width: 580px;
+    max-width: 880px;
     width: 90%;
     margin: 32px auto;
 
@@ -82,7 +82,7 @@ section p {
 
 section ul {
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     gap: 16px;
 
     margin-top: 24px;
@@ -97,7 +97,7 @@ section ul li:hover {
 }
 
 .games-list img {
-    width: 90px;
+    width: 200px;
     border-radius: 8px;
 }
 
@@ -151,4 +151,11 @@ main section:nth-child(3) {
         opacity: 1;
         transform: translateY(0)
     }
+}
+.carousel-inner{
+    margin: -10px 0 -50px 0;
+}
+.d-block {
+    margin: auto;
+    width: 200px;
 }

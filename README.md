@@ -1,6 +1,7 @@
 # NLW eSports 
 
 ![preview](./.github/preview.png)
+![preview](./.github/preview%20com%20slide.png)
 
 > Trilha Expĺorer
 
@@ -14,6 +15,7 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 - HTML
 - CSS
+- Bootstrap v5.2
 - Git e Github
 
 ## Contato
